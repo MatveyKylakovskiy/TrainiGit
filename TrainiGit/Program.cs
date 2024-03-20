@@ -2,4 +2,6 @@
 Console.WriteLine("First commit in FirstBranch");
 Console.WriteLine("Second commit in FirstBranch");
 
-Console.WriteLine("FirstBranch");
+Console.WriteLine("ThirdBranch");
+Console.WriteLine("ThirdBranch1");
+Console.WriteLine("ThirdBranch2");
