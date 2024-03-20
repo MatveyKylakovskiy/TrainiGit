@@ -1,0 +1,1 @@
+﻿Console.WriteLine("This progect get started only for training Git");
