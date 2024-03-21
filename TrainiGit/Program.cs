@@ -24,3 +24,4 @@ Console.WriteLine("Second commit in FirstBranch");
 Console.WriteLine("Second commit in FirstBranch");
 Console.WriteLine("Second commit in FirstBranch");
 Console.WriteLine("Second commit in FirstBranch");
+int a = 5;
